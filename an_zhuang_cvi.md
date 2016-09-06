@@ -1,2 +1,3 @@
 # 安装CVI
 
+##打开VI\NI.LabWindows.CVI.2013.SP2\NILWCVI2013SP2中的setup
